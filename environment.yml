@@ -4,10 +4,9 @@ channels:
 dependencies:
   - python
   - numpy
-  - random
+  - plotly
   - pip:
     - pandas
     - matplotlib
-    - ipywidgets
     - plotly
-
+    - ipywidgets
